@@ -2,7 +2,7 @@
 
 Create a program that asks the user what the current temperature is in San Jose and then tells them the difference between that temperature and the hottest and coldest days on record for San Jose (108 and 18 respectively).
 
-Also ask the user for their age (as an integer) and then their name.
+Also ask the user for their age and then their name.
 
 ## Example Outputs
 
